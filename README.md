@@ -37,7 +37,7 @@ A 6-page interactive Power BI dashboard analyzing **$80M in sales** across Bikes
 | Page | Description |
 |------|-------------|
 | **Overview** | Monthly Sales vs. Profit Margin trend with year and region filters across 10 global markets |
-| **Profit** | Quarterly P&L breakdown by fiscal year — orders, sales, cost, profit, and margin |
+| **Profit** | Quarterly P&L breakdown by fiscal year - orders, sales, cost, profit, and margin |
 | **Pricing** | Avg, Max, Median, and Min price trends across FY2018–2020 |
 | **Sales Growth** | YTD accumulation and YoY growth % tracking by month |
 | **My Performance** | Salesperson Sales vs. Target with KPI cards and Bar/Column chart toggle |
