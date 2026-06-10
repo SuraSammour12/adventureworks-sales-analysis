@@ -12,7 +12,7 @@
 
 > Guided Project · IBT Learning × GGateway Bootcamp · June 2026
 
-A 6-page interactive Power BI dashboard analyzing **$80M in sales** across Bikes, Accessories, Clothing, and Components for Adventure Works — a fictional outdoor sports company - covering **FY2018 to FY2020**.
+A 6-page interactive Power BI dashboard analyzing **$80M in sales** across Bikes, Accessories, Clothing, and Components for Adventure Works - a fictional outdoor sports company - covering **FY2018 to FY2020**.
 
 ---
 
